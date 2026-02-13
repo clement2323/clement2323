@@ -1,4 +1,4 @@
-👋 Hey there, I’m Clément
+## Hey there, I’m Clément
 
 Data Scientist at the French National Institute of Statistics, with a strong academic background in Data Science (MVA – Paris-Saclay / ENSAE).
 
