@@ -4,15 +4,12 @@ Data Scientist at the French National Institute of Statistics, with a strong aca
 
 I’m particularly interested in graphs, visual representations, and image-based data, from statistical visualization to computer vision projects.
 
-🤖 Main interests:
+### 🤖 Main interests:
 
-Reinforcement Learning
-
-Computer Vision
-
-Graphs and visual representations
-
-Image-driven projects including satellite imagery and ComfyUI
+- Computer Vision
+- Image-driven projects including satellite imagery and ComfyUI
+- Graphs and visual representations
+- Reinforcement Learning
 
 🚀 Curious, hands-on, and constantly experimenting. Take a look at my GitHub to see what I’m currently working on.
 
