@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey there, I’m Clément
 
-<!--
-**clement2323/clement2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist at the French National Institute of Statistics, with a strong academic background in Data Science (MVA – Paris-Saclay / ENSAE).
 
-Here are some ideas to get you started:
+I’m particularly interested in graphs, visual representations, and image-based data, from statistical visualization to computer vision projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Main interests:
+
+Reinforcement Learning
+
+Computer Vision
+
+Graphs and visual representations
+
+Image-driven projects including satellite imagery and ComfyUI
+
+🚀 Curious, hands-on, and constantly experimenting. Take a look at my GitHub to see what I’m currently working on.
+
+📫 Contact: guillo.clement@gmail.com
